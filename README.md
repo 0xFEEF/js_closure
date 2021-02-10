@@ -1,2 +1,3 @@
 # js_closure
-javascript closure basic
+
+JavaScript + HTML code for the browser to understand how the JS closure works.
